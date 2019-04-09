@@ -1,8 +1,8 @@
 Fullstack Ejercicio 1
 
-1. ingresar a la carpeta test1
-2. npm install -> Instalar las dependencias necesarias
-3. npm start -> Para iniciar el projecto
+1. ingresar a la carpeta test1 y ejecutar los siguientes comandos 
+2. npm install -> Instala las dependencias necesarias
+3. npm start -> Inicia el projecto
 
 4. Para visualizar la lista de usuarios, escribir en la barra de direcciones http://localhost:3001/userlist.
 - El metodo que retorna la lista de usuarios se llama mediante la funcion userList(), esta retornara la lista completa de los usuarios en un Json.
