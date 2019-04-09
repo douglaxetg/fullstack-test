@@ -5,7 +5,7 @@ Fullstack Ejercicio 1
 3. npm start -> Para iniciar el projecto
 
 4. Para visualizar la lista de usuarios, escribir en la barra de direcciones http://localhost:3000/userlist.
-- El metodo que retorna la lista de usuarios se llama mediante la funcion userList(), esta retornara la lista completa de los usuarios en el Json.
+- El metodo que retorna la lista de usuarios se llama mediante la funcion userList(), esta retornara la lista completa de los usuarios en un Json.
 
-5. Para obtener el detalle de uno de los usuarios, escribir en la barra de direcciones http://localhost:3000/userdetails
-- El metodo que retorna el de usuarios se llama mediante la funcion userList(), esta retornara la lista completa de los usuarios en el Json.
+5. Para obtener el detalle de cada uno de los usuarios, escribir en la barra de direcciones sequido del numero id del usuario de esta manera  http://localhost:3000/userdetails/0
+- El metodo que retorna el detalle de usuario se llama mediante la funcion userList(), esta retornara el detalle de cada usuario en un Json.
