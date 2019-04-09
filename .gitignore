@@ -1,1 +1,23 @@
 test1/node_modules
+
+# dependencies
+test2/node_modules
+test2/.pnp
+test2/.pnp.js
+
+# testing
+test2/coverage
+
+# production
+test2/build
+
+# misc
+test2/.DS_Store
+test2/.env.local
+test2/.env.development.local
+test2/.env.test.local
+test2/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
